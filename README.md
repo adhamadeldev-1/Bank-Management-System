@@ -63,6 +63,12 @@ I built this project to practice C++ and Object-Oriented Programming by applying
 
 It also helped me gain more experience with file handling, class design, inheritance, data validation, and building a larger console application.
 
+## How to Run
+
+1. Clone the repository
+2. Open the project in your preferred C++ compiler/IDE (e.g., Code::Blocks, Visual Studio)
+3. Build and run the project
+   
 ## Author
 
 **Adham Adel**
